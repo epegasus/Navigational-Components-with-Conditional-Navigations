@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Navigational Conditions</string>
+
+    <!-- Intro -->
+    <string name="continue_">Continue</string>
+    <string name="conditional_navigation">Conditional Navigation</string>
+    <string name="login_screen">Login Screen</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="welcome_back_s">Welcome Back! \n%s</string>
+</resources>
